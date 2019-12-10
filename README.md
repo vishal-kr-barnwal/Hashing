@@ -1,6 +1,7 @@
 # Hashing
 Dual layer hashing (random salted SHA3 1600 bits &amp; 2048 bit RSA for security improvisation).
-# Programming Language - Python
+# Programming Language - Python3
+<I>Libraries needed : </I> Numpy
 # Prime Generator
 Program to get next prime number efficiently and fastly for getting RSA keys. 
 <br>File containing progran is primegenerator.py. Here, function defined for getting next prime is next_prime.
